@@ -3,6 +3,8 @@
 # Project Overview:
 This project analyzes personal finances to evaluate financial habits. Over a 10-month period (January-October), it examines an individual's income and expenses, providing valuable insights into their financial habits.
 
+![image alt](https://github.com/Madonna-22/Finance-Analysis/blob/acab37b287e9ba797f5496df07b28391ef991a05/IMG_Dashboard.png)
+
 # Data Overview:
 
 Data source:
